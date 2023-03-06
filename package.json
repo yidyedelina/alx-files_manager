@@ -1,0 +1,19 @@
+{
+  "name": "alx-files_manager",
+  "version": "0.0.1",
+  "description": "this is alx project simple file manger api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yidyedelina/alx-files_manager.git"
+  },
+  "author": "yidnekachew tebeje",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yidyedelina/alx-files_manager/issues"
+  },
+  "homepage": "https://github.com/yidyedelina/alx-files_manager#readme"
+}
